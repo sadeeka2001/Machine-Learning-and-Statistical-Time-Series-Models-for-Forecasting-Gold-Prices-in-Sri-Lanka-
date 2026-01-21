@@ -1,0 +1,2 @@
+# Machine-Learning-and-Statistical-Time-Series-Models-for-Forecasting-Gold-Prices-in-Sri-Lanka-
+This project forecasts daily gold prices in Sri Lankan Rupees (LKR) using ARIMA and Support Vector Regression (SVR). Using data from 2018 onwards, the study includes preprocessing, stationarity testing, feature engineering, and model evaluation. Results show SVR outperforms ARIMA, highlighting its strength in capturing nonlinear gold price dynamics
