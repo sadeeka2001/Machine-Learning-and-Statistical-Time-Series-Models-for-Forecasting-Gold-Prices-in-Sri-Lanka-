@@ -137,28 +137,6 @@ SVR significantly outperforms ARIMA across all evaluation metrics, demonstrating
 └── README.md
 ```
 
----
-
-
-
-```bash
-git clone https://github.com/your-username/gold-price-forecasting-sri-lanka.git
-cd gold-price-forecasting-sri-lanka
-```
-
-
-
-```bash
-pip install -r requirements.txt
-```
-
-
-
-```bash
-jupyter notebook
-```
-
----
 
 ## 🔮 Future Enhancements
 
@@ -169,22 +147,6 @@ jupyter notebook
 
 ---
 
-## 🎓 Academic Relevance
-
-* Higher National Diploma in Data Science (NIBM)
-* Financial Time Series Forecasting
-* Machine Learning vs Statistical Models
-* Emerging economy–focused research
-
----
-
-## 👤 Author
-
-** Sadeeka Dissnayake**
-Higher National Diploma in Data Science
-National Institute of Business Management (NIBM), Sri Lanka
-
----
 
 ##  Conclusion
 
