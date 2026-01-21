@@ -1,11 +1,5 @@
 # Machine-Learning-and-Statistical-Time-Series-Models-for-Forecasting-Gold-Prices-in-Sri-Lanka-
 
-Perfect 👍
-Below is a **complete, well-structured `README.md`** for your **Gold Price Forecasting (ARIMA vs SVR)** project.
-It is **academic-ready**, **GitHub-professional**, and suitable for **NIBM / Data Science portfolio** use.
-
-You can **copy–paste this directly into GitHub**.
-
 ---
 
 # 🪙 Gold Price Forecasting in Sri Lanka
